@@ -1,4 +1,4 @@
-# Wordpress Manage database data directly from the dashboard.  (Under Construction)
+# Wordpress Manage database data directly from the dashboard.
 
 ## Overview
 Manage Database data directly from the dashboard.
@@ -17,8 +17,8 @@ Manage Database data directly from the dashboard.
 
 ### Installation
 
-Step 1:- `git clone github.com/devKanix/Honestly-Nvrmind` for clone the repo. <br></br>
-Step 2:- Put the give file in the plugin folder in wordpress themes<br></br>
+Step 1:- Clone this repo. <br></br>
+Step 2:- Put the given file in the plugin folder in wordpress themes<br></br>
 Step 3:- Edit file code with you prefrences<br></br>
 Step 4:- Activate the plugin in wordpress dashboard using wordpress<br></br>
 
